@@ -1,0 +1,15 @@
+.clickable {
+
+cursor: pointer;
+color: #0088cc;
+
+}
+
+
+
+
+#hiddenCats, #hiddenDogs, #hiddenBirds {
+ display: none;
+
+ padding:20px;
+}
